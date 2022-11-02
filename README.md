@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/reneev raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reneev raj" height="30" width="40" /></a>
-<a href="https://instagram.com/ren_eev_rj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ren_eev_rj" height="30" width="40" /></a>
-<a href="https://discord.gg/Reneev#4268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Reneev#4268" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/reneev-raj-705609243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reneev raj" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ren_eev_rj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ren_eev_rj" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me/1037349073776279593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Reneev#4268" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
